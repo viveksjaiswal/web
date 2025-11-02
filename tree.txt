@@ -1,0 +1,46 @@
+web
+├── .gitignore
+├── .next
+│   └── types
+│       ├── routes.d.ts
+│       └── validator.ts
+├── README.md
+├── eslint.config.mjs
+├── next-env.d.ts
+├── next.config.ts
+├── node_modules
+├── package-lock.json
+├── package.json
+├── postcss.config.mjs
+├── public
+│   ├── file.svg
+│   ├── globe.svg
+│   ├── next.svg
+│   ├── vercel.svg
+│   └── window.svg
+├── src
+│   ├── app
+│   │   ├── favicon.ico
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   └── page.tsx
+│   ├── components
+│   ├── constants
+│   ├── core
+│   │   ├── func
+│   │   └── ui
+│   │       ├── button
+│   │       └── groupbutton
+│   ├── docs
+│   ├── hooks
+│   ├── lib
+│   ├── modules
+│   │   ├── auth
+│   │   ├── settings
+│   │   └── users
+│   ├── services
+│   ├── store
+│   ├── styles
+│   └── types
+├── tree.txt
+└── tsconfig.json
